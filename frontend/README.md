@@ -1,126 +1,126 @@
 # GitHub Repository Analysis System - Frontend
 
-这是一个用于分析GitHub仓库中AI/LLM开发模式的JAMstack前端应用，可部署在GitHub Pages上。
+This is a JAMstack frontend application for analyzing AI/LLM development patterns in GitHub repositories, deployable on GitHub Pages.
 
-## 特色功能
+## Features
 
-### 🎯 CLAUDE.md 筛选
-- 专门筛选包含CLAUDE.md文件的仓库
-- 发现采用Claude AI进行开发的项目
-- 一键查看所有AI配置项目
+### 🎯 CLAUDE.md Filtering
+- Specifically filters repositories containing CLAUDE.md files
+- Discover projects using Claude AI for development
+- One-click view of all AI-configured projects
 
-### 🤖 Agents.md 筛选  
-- 筛选包含Agents.md文件的仓库
-- 找到包含AI代理配置的项目
-- 发现AI驱动的开发实践
+### 🤖 Agents.md Filtering  
+- Filters repositories containing Agents.md files
+- Find projects with AI agent configurations
+- Discover AI-driven development practices
 
-### 🔍 多维度筛选
-- **编程语言**：Python, JavaScript, TypeScript, Java, Go, Rust等
-- **Star数范围**：支持自定义最小/最大Star数
-- **特殊文件**：README, LICENSE, CONTRIBUTING, CLAUDE.md, Agents.md等
-- **组合筛选**：可同时使用多个筛选条件
+### 🔍 Multi-dimensional Filtering
+- **Programming Languages**: Python, JavaScript, TypeScript, Java, Go, Rust, etc.
+- **Star Count Range**: Support custom min/max star counts
+- **Special Files**: README, LICENSE, CONTRIBUTING, CLAUDE.md, Agents.md, etc.
+- **Combined Filtering**: Multiple filter conditions can be used simultaneously
 
-### 📊 实时统计
-- 总仓库数量统计
-- CLAUDE.md文件数量
-- Agents.md文件数量
-- 筛选结果实时更新
+### 📊 Real-time Statistics
+- Total repository count statistics
+- CLAUDE.md file count
+- Agents.md file count
+- Filter results update in real-time
 
-## 技术特点
+## Technical Features
 
-### JAMstack架构
-- **J**avaScript - 动态交互和数据处理
-- **A**PIs - GitHub API数据获取
-- **M**arkup - 静态HTML生成
+### JAMstack Architecture
+- **J**avaScript - Dynamic interaction and data processing
+- **A**PIs - GitHub API data fetching
+- **M**arkup - Static HTML generation
 
-### 静态部署
-- 纯前端技术栈
-- 可直接部署在GitHub Pages
-- 无需服务器，零维护成本
+### Static Deployment
+- Pure frontend technology stack
+- Can be directly deployed on GitHub Pages
+- No server required, zero maintenance cost
 
-### 响应式设计
-- 支持桌面端和移动端
-- Bootstrap 5框架
-- 现代化UI设计
+### Responsive Design
+- Desktop and mobile support
+- Bootstrap 5 framework
+- Modern UI design
 
-## 项目结构
+## Project Structure
 
 ```
 frontend/
-├── index.html              # 主页面（纯HTML版本）
-├── index.md               # 主页面（Jekyll版本）
-├── _config.yml            # Jekyll配置
+├── index.html              # Main page (pure HTML version)
+├── index.md               # Main page (Jekyll version)
+├── _config.yml            # Jekyll configuration
 ├── _layouts/
-│   └── default.html       # 默认布局
+│   └── default.html       # Default layout
 ├── css/
-│   └── style.css          # 自定义样式
+│   └── style.css          # Custom styles
 ├── js/
-│   └── app.js             # 主要JavaScript逻辑
-└── data/                  # 数据文件（可选）
+│   └── app.js             # Main JavaScript logic
+└── data/                  # Data files (optional)
 ```
 
-## 部署方式
+## Deployment Options
 
-### 方式1：纯静态部署
-直接将 `index.html` 上传到任何静态托管服务：
+### Option 1: Pure Static Deployment
+Upload `index.html` directly to any static hosting service:
 - GitHub Pages
 - Netlify  
 - Vercel
-- 任何CDN服务
+- Any CDN service
 
-### 方式2：Jekyll部署
-使用GitHub Pages的Jekyll功能：
-1. 将代码推送到GitHub仓库
-2. 在仓库设置中启用GitHub Pages
-3. 选择Jekyll作为源
-4. 部署完成
+### Option 2: Jekyll Deployment
+Use GitHub Pages Jekyll functionality:
+1. Push code to GitHub repository
+2. Enable GitHub Pages in repository settings
+3. Select Jekyll as source
+4. Deployment complete
 
-## 使用方法
+## Usage
 
-1. **打开页面**：访问部署后的URL
-2. **浏览概览**：查看数据统计信息
-3. **使用筛选**：
-   - 勾选"包含CLAUDE.md文件"查找AI配置项目
-   - 勾选"包含Agents.md文件"查找AI代理项目
-   - 选择编程语言、Star数范围等条件
-4. **查看结果**：以网格或列表形式查看筛选结果
-5. **访问项目**：点击卡片直接跳转到GitHub仓库
+1. **Open Page**: Visit the deployed URL
+2. **Browse Overview**: View data statistics
+3. **Use Filters**:
+   - Check "Include CLAUDE.md files" to find AI-configured projects
+   - Check "Include Agents.md files" to find AI agent projects
+   - Select programming languages, star count ranges, etc.
+4. **View Results**: View filtered results in grid or list format
+5. **Visit Projects**: Click cards to jump directly to GitHub repositories
 
-## 数据说明
+## Data Description
 
-当前使用示例数据进行演示，包含：
-- 864个高Star仓库（>30,000 stars）
-- 37个包含CLAUDE.md的仓库
-- 12个包含Agents.md的仓库
-- 多种编程语言分布
+Currently using sample data for demonstration, including:
+- 864 high-star repositories (>30,000 stars)
+- 37 repositories containing CLAUDE.md
+- 12 repositories containing Agents.md
+- Multiple programming language distributions
 
-实际部署时，可以通过以下方式获取真实数据：
-1. 使用后端API接口
-2. 静态JSON文件
-3. GitHub API直接调用
-4. Supabase等数据库
+For actual deployment, real data can be obtained through:
+1. Backend API interfaces
+2. Static JSON files
+3. Direct GitHub API calls
+4. Databases like Supabase
 
-## 浏览器兼容性
+## Browser Compatibility
 
 - Chrome 60+
 - Firefox 55+
 - Safari 12+
 - Edge 79+
 
-## 开发说明
+## Development
 
-### 本地开发
+### Local Development
 ```bash
-# 使用Python简单HTTP服务器
+# Using Python simple HTTP server
 cd frontend
 python -m http.server 8000
 
-# 或使用Node.js
+# Or using Node.js
 npx http-server
 ```
 
-### 自定义配置
-修改 `js/app.js` 中的 `repositories` 数组来更新数据：
+### Custom Configuration
+Update the `repositories` array in `js/app.js` to modify data:
 ```javascript
 this.repositories = [
     {
@@ -131,15 +131,15 @@ this.repositories = [
         description: 'Repository description',
         language: 'Python',
         stargazers_count: 1000,
-        // ... 其他字段
+        // ... other fields
     }
 ];
 ```
 
-## 贡献
+## Contributing
 
-欢迎提交Issue和Pull Request来改进这个项目！
+Issues and Pull Requests are welcome to improve this project!
 
-## 许可证
+## License
 
 MIT License
