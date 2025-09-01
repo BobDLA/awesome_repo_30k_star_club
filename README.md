@@ -6,7 +6,7 @@ A curated ranking and analysis platform for GitHub repositories with over 30,000
 
 ## 🎯 Live Demo
 
-**🔗 Live Application**: [https://bobdla.github.io/awesome_repo_30k_star_club/frontend/index.html](https://bobdla.github.io/awesome_repo_30k_star_club/frontend/index.html)
+**🔗 Live Application**: [https://bobdla.github.io/awesome_repo_30k_star_club_ranking/frontend/index.html](https://bobdla.github.io/awesome_repo_30k_star_club_ranking/frontend/index.html)
 
 **📅 Data Collection Date**: September 1, 2025
 
@@ -179,7 +179,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**🔗 Live Application**: [https://bobdla.github.io/awesome_repo_30k_star_club/frontend/index.html](https://bobdla.github.io/awesome_repo_30k_star_club/frontend/index.html)
+**🔗 Live Application**: [https://bobdla.github.io/awesome_repo_30k_star_club_ranking/frontend/index.html](https://bobdla.github.io/awesome_repo_30k_star_club_ranking/frontend/index.html)
 
 **📅 Last Updated**: September 1, 2025
 
