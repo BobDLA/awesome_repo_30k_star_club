@@ -1,0 +1,1471 @@
+[
+  {
+    "id": 2,
+    "github_id": 28457823,
+    "full_name": "freeCodeCamp/freeCodeCamp",
+    "name": "freeCodeCamp",
+    "owner_login": "freeCodeCamp",
+    "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+    "language": "TypeScript",
+    "stargazers_count": 426915,
+    "forks_count": 41377,
+    "created_at": "2014-12-24T17:49:19Z",
+    "updated_at": "2025-09-01T12:41:32Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.md",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "github_id": 132750724,
+    "full_name": "codecrafters-io/build-your-own-x",
+    "name": "build-your-own-x",
+    "owner_login": "codecrafters-io",
+    "description": "Master programming by recreating your favorite technologies from scratch.",
+    "language": "Markdown",
+    "stargazers_count": 416054,
+    "forks_count": 38991,
+    "created_at": "2018-05-09T12:03:18Z",
+    "updated_at": "2025-09-01T12:59:26Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "github_id": 21737465,
+    "full_name": "sindresorhus/awesome",
+    "name": "awesome",
+    "owner_login": "sindresorhus",
+    "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
+    "language": "",
+    "stargazers_count": 396565,
+    "forks_count": 31421,
+    "created_at": "2014-07-11T13:42:37Z",
+    "updated_at": "2025-09-01T13:00:09Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "readme.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "license",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "contributing.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "github_id": 13491895,
+    "full_name": "EbookFoundation/free-programming-books",
+    "name": "free-programming-books",
+    "owner_login": "EbookFoundation",
+    "description": ":books: Freely available programming books",
+    "language": "Python",
+    "stargazers_count": 367016,
+    "forks_count": 64029,
+    "created_at": "2013-10-11T06:50:37Z",
+    "updated_at": "2025-09-01T13:03:15Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "github_id": 54346799,
+    "full_name": "public-apis/public-apis",
+    "name": "public-apis",
+    "owner_login": "public-apis",
+    "description": "A collective list of free APIs",
+    "language": "Python",
+    "stargazers_count": 363570,
+    "forks_count": 38167,
+    "created_at": "2016-03-20T23:49:42Z",
+    "updated_at": "2025-09-01T13:04:49Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "github_id": 85077558,
+    "full_name": "kamranahmedse/developer-roadmap",
+    "name": "developer-roadmap",
+    "owner_login": "kamranahmedse",
+    "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+    "language": "TypeScript",
+    "stargazers_count": 335120,
+    "forks_count": 42670,
+    "created_at": "2017-03-15T13:45:52Z",
+    "updated_at": "2025-09-01T13:03:22Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "readme.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "license",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "contributing.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "code_of_conduct.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "github_id": 60493101,
+    "full_name": "jwasham/coding-interview-university",
+    "name": "coding-interview-university",
+    "owner_login": "jwasham",
+    "description": "A complete computer science study plan to become a software engineer.",
+    "language": "",
+    "stargazers_count": 326007,
+    "forks_count": 80136,
+    "created_at": "2016-06-06T02:34:12Z",
+    "updated_at": "2025-09-01T12:45:16Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "github_id": 83222441,
+    "full_name": "donnemartin/system-design-primer",
+    "name": "system-design-primer",
+    "owner_login": "donnemartin",
+    "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+    "language": "Python",
+    "stargazers_count": 318258,
+    "forks_count": 52055,
+    "created_at": "2017-02-26T16:15:28Z",
+    "updated_at": "2025-09-01T13:04:33Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "github_id": 177736533,
+    "full_name": "996icu/996.ICU",
+    "name": "996.ICU",
+    "owner_login": "996icu",
+    "description": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "language": "",
+    "stargazers_count": 274226,
+    "forks_count": 21062,
+    "created_at": "2019-03-26T07:31:14Z",
+    "updated_at": "2025-09-01T08:58:18Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "github_id": 21289110,
+    "full_name": "vinta/awesome-python",
+    "name": "awesome-python",
+    "owner_login": "vinta",
+    "description": "An opinionated list of awesome Python frameworks, libraries, software and resources.",
+    "language": "Python",
+    "stargazers_count": 257687,
+    "forks_count": 26213,
+    "created_at": "2014-06-27T21:00:06Z",
+    "updated_at": "2025-09-01T13:03:32Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "github_id": 36633370,
+    "full_name": "awesome-selfhosted/awesome-selfhosted",
+    "name": "awesome-selfhosted",
+    "owner_login": "awesome-selfhosted",
+    "description": "A list of Free Software network services and web applications which can be hosted on your own servers",
+    "language": "",
+    "stargazers_count": 244649,
+    "forks_count": 11319,
+    "created_at": "2015-06-01T02:33:17Z",
+    "updated_at": "2025-09-01T12:52:53Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "github_id": 88011908,
+    "full_name": "practical-tutorials/project-based-learning",
+    "name": "project-based-learning",
+    "owner_login": "practical-tutorials",
+    "description": "Curated list of project-based tutorials",
+    "language": "",
+    "stargazers_count": 241979,
+    "forks_count": 31644,
+    "created_at": "2017-04-12T05:07:46Z",
+    "updated_at": "2025-09-01T13:04:39Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.md",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "github_id": 10270250,
+    "full_name": "facebook/react",
+    "name": "react",
+    "owner_login": "facebook",
+    "description": "The library for web and native user interfaces.",
+    "language": "JavaScript",
+    "stargazers_count": 238524,
+    "forks_count": 49229,
+    "created_at": "2013-05-24T16:15:54Z",
+    "updated_at": "2025-09-01T13:01:44Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "github_id": 11730342,
+    "full_name": "vuejs/vue",
+    "name": "vue",
+    "owner_login": "vuejs",
+    "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+    "language": "TypeScript",
+    "stargazers_count": 209325,
+    "forks_count": 33748,
+    "created_at": "2013-07-29T03:24:51Z",
+    "updated_at": "2025-09-01T12:26:42Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "github_id": 63476337,
+    "full_name": "TheAlgorithms/Python",
+    "name": "Python",
+    "owner_login": "TheAlgorithms",
+    "description": "All Algorithms implemented in Python",
+    "language": "Python",
+    "stargazers_count": 206222,
+    "forks_count": 47676,
+    "created_at": "2016-07-16T09:44:01Z",
+    "updated_at": "2025-09-01T12:33:44Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": ".pre-commit-config.yaml",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "github_id": 2325298,
+    "full_name": "torvalds/linux",
+    "name": "linux",
+    "owner_login": "torvalds",
+    "description": "Linux kernel source tree",
+    "language": "C",
+    "stargazers_count": 201140,
+    "forks_count": 57536,
+    "created_at": "2011-09-04T22:48:12Z",
+    "updated_at": "2025-09-01T12:56:33Z",
+    "special_files": []
+  },
+  {
+    "id": 18,
+    "github_id": 126577260,
+    "full_name": "trekhleb/javascript-algorithms",
+    "name": "javascript-algorithms",
+    "owner_login": "trekhleb",
+    "description": "\ud83d\udcdd Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "language": "JavaScript",
+    "stargazers_count": 193152,
+    "forks_count": 30859,
+    "created_at": "2018-03-24T07:47:04Z",
+    "updated_at": "2025-09-01T12:30:23Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "github_id": 45717250,
+    "full_name": "tensorflow/tensorflow",
+    "name": "tensorflow",
+    "owner_login": "tensorflow",
+    "description": "An Open Source Machine Learning Framework for Everyone",
+    "language": "C++",
+    "stargazers_count": 191419,
+    "forks_count": 74810,
+    "created_at": "2015-11-07T01:19:20Z",
+    "updated_at": "2025-09-01T13:02:50Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "github_id": 19415064,
+    "full_name": "ossu/computer-science",
+    "name": "computer-science",
+    "owner_login": "ossu",
+    "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+    "language": "HTML",
+    "stargazers_count": 191329,
+    "forks_count": 23892,
+    "created_at": "2014-05-04T00:18:39Z",
+    "updated_at": "2025-09-01T13:04:16Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "github_id": 138393139,
+    "full_name": "trimstray/the-book-of-secret-knowledge",
+    "name": "the-book-of-secret-knowledge",
+    "owner_login": "trimstray",
+    "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "language": "",
+    "stargazers_count": 184375,
+    "forks_count": 11442,
+    "created_at": "2018-06-23T10:43:14Z",
+    "updated_at": "2025-09-01T12:49:04Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "github_id": 14440270,
+    "full_name": "getify/You-Dont-Know-JS",
+    "name": "You-Dont-Know-JS",
+    "owner_login": "getify",
+    "description": "A book series (2 published editions) on the JS language.",
+    "language": "",
+    "stargazers_count": 183127,
+    "forks_count": 33657,
+    "created_at": "2013-11-16T02:37:24Z",
+    "updated_at": "2025-09-01T12:27:30Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "github_id": 121395510,
+    "full_name": "CyC2018/CS-Notes",
+    "name": "CS-Notes",
+    "owner_login": "CyC2018",
+    "description": ":books: \u6280\u672f\u9762\u8bd5\u5fc5\u5907\u57fa\u7840\u77e5\u8bc6\u3001Leetcode\u3001\u8ba1\u7b97\u673a\u64cd\u4f5c\u7cfb\u7edf\u3001\u8ba1\u7b97\u673a\u7f51\u7edc\u3001\u7cfb\u7edf\u8bbe\u8ba1",
+    "language": "",
+    "stargazers_count": 181724,
+    "forks_count": 51174,
+    "created_at": "2018-02-13T14:56:24Z",
+    "updated_at": "2025-09-01T12:08:58Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "github_id": 291137,
+    "full_name": "ohmyzsh/ohmyzsh",
+    "name": "ohmyzsh",
+    "owner_login": "ohmyzsh",
+    "description": "\ud83d\ude43   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.",
+    "language": "Shell",
+    "stargazers_count": 181087,
+    "forks_count": 26186,
+    "created_at": "2009-08-28T18:15:37Z",
+    "updated_at": "2025-09-01T11:17:03Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "github_id": 614765452,
+    "full_name": "Significant-Gravitas/AutoGPT",
+    "name": "AutoGPT",
+    "owner_login": "Significant-Gravitas",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "stargazers_count": 178190,
+    "forks_count": 45957,
+    "created_at": "2023-03-16T09:21:07Z",
+    "updated_at": "2025-09-01T12:27:57Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": ".pre-commit-config.yaml",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      },
+      {
+        "file_type": "agents",
+        "filename": "AGENTS.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "github_id": 41881900,
+    "full_name": "microsoft/vscode",
+    "name": "vscode",
+    "owner_login": "microsoft",
+    "description": "Visual Studio Code",
+    "language": "TypeScript",
+    "stargazers_count": 176278,
+    "forks_count": 34704,
+    "created_at": "2015-09-03T20:23:38Z",
+    "updated_at": "2025-09-01T12:56:56Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "github_id": 2126244,
+    "full_name": "twbs/bootstrap",
+    "name": "bootstrap",
+    "owner_login": "twbs",
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "language": "MDX",
+    "stargazers_count": 173309,
+    "forks_count": 79155,
+    "created_at": "2011-07-29T21:19:00Z",
+    "updated_at": "2025-09-01T12:32:47Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "github_id": 31792824,
+    "full_name": "flutter/flutter",
+    "name": "flutter",
+    "owner_login": "flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "language": "Dart",
+    "stargazers_count": 172225,
+    "forks_count": 29111,
+    "created_at": "2015-03-06T22:54:58Z",
+    "updated_at": "2025-09-01T12:50:33Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "github_id": 123458551,
+    "full_name": "jackfrued/Python-100-Days",
+    "name": "Python-100-Days",
+    "owner_login": "jackfrued",
+    "description": "Python - 100\u5929\u4ece\u65b0\u624b\u5230\u5927\u5e08",
+    "language": "Jupyter Notebook",
+    "stargazers_count": 171641,
+    "forks_count": 54460,
+    "created_at": "2018-03-01T16:05:52Z",
+    "updated_at": "2025-09-01T13:01:28Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "github_id": 1062897,
+    "full_name": "github/gitignore",
+    "name": "gitignore",
+    "owner_login": "github",
+    "description": "A collection of useful .gitignore templates",
+    "language": "",
+    "stargazers_count": 169037,
+    "forks_count": 83013,
+    "created_at": "2010-11-08T20:17:14Z",
+    "updated_at": "2025-09-01T12:51:18Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "github_id": 35955666,
+    "full_name": "jlevy/the-art-of-command-line",
+    "name": "the-art-of-command-line",
+    "owner_login": "jlevy",
+    "description": "Master the command line, in one page",
+    "language": "",
+    "stargazers_count": 157973,
+    "forks_count": 14746,
+    "created_at": "2015-05-20T15:11:03Z",
+    "updated_at": "2025-09-01T12:47:36Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "github_id": 527591471,
+    "full_name": "AUTOMATIC1111/stable-diffusion-webui",
+    "name": "stable-diffusion-webui",
+    "owner_login": "AUTOMATIC1111",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "stargazers_count": 156074,
+    "forks_count": 28955,
+    "created_at": "2022-08-22T14:05:26Z",
+    "updated_at": "2025-09-01T12:17:38Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.txt",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "github_id": 132464395,
+    "full_name": "Snailclimb/JavaGuide",
+    "name": "JavaGuide",
+    "owner_login": "Snailclimb",
+    "description": "\u300cJava\u5b66\u4e60+\u9762\u8bd5\u6307\u5357\u300d\u4e00\u4efd\u6db5\u76d6\u5927\u90e8\u5206 Java \u7a0b\u5e8f\u5458\u6240\u9700\u8981\u638c\u63e1\u7684\u6838\u5fc3\u77e5\u8bc6\u3002\u51c6\u5907 Java \u9762\u8bd5\uff0c\u9996\u9009 JavaGuide\uff01",
+    "language": "Java",
+    "stargazers_count": 151510,
+    "forks_count": 45984,
+    "created_at": "2018-05-07T13:27:00Z",
+    "updated_at": "2025-09-01T12:42:23Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "github_id": 658928958,
+    "full_name": "ollama/ollama",
+    "name": "ollama",
+    "owner_login": "ollama",
+    "description": "Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.",
+    "language": "Go",
+    "stargazers_count": 151351,
+    "forks_count": 12982,
+    "created_at": "2023-06-26T19:39:32Z",
+    "updated_at": "2025-09-01T13:04:12Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "github_id": 21540759,
+    "full_name": "avelino/awesome-go",
+    "name": "awesome-go",
+    "owner_login": "avelino",
+    "description": "A curated list of awesome Go frameworks, libraries and software",
+    "language": "Go",
+    "stargazers_count": 151280,
+    "forks_count": 12535,
+    "created_at": "2014-07-06T13:42:15Z",
+    "updated_at": "2025-09-01T13:03:03Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "github_id": 155220641,
+    "full_name": "huggingface/transformers",
+    "name": "transformers",
+    "owner_login": "huggingface",
+    "description": "\ud83e\udd17 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+    "language": "Python",
+    "stargazers_count": 149034,
+    "forks_count": 30227,
+    "created_at": "2018-10-29T13:56:00Z",
+    "updated_at": "2025-09-01T13:05:06Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      },
+      {
+        "file_type": "agents",
+        "filename": "AGENTS.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "github_id": 6498492,
+    "full_name": "airbnb/javascript",
+    "name": "javascript",
+    "owner_login": "airbnb",
+    "description": "JavaScript Style Guide",
+    "language": "JavaScript",
+    "stargazers_count": 147337,
+    "forks_count": 26781,
+    "created_at": "2012-11-01T23:13:50Z",
+    "updated_at": "2025-09-01T12:38:26Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "github_id": 233472199,
+    "full_name": "massgravel/Microsoft-Activation-Scripts",
+    "name": "Microsoft-Activation-Scripts",
+    "owner_login": "massgravel",
+    "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.",
+    "language": "Batchfile",
+    "stargazers_count": 146712,
+    "forks_count": 14254,
+    "created_at": "2020-01-12T23:03:34Z",
+    "updated_at": "2025-09-01T12:51:40Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "github_id": 1039520,
+    "full_name": "ytdl-org/youtube-dl",
+    "name": "youtube-dl",
+    "owner_login": "ytdl-org",
+    "description": "Command-line program to download videos from YouTube.com and other video sites",
+    "language": "Python",
+    "stargazers_count": 137125,
+    "forks_count": 10458,
+    "created_at": "2010-10-31T14:35:07Z",
+    "updated_at": "2025-09-01T12:54:14Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "github_id": 193215554,
+    "full_name": "n8n-io/n8n",
+    "name": "n8n",
+    "owner_login": "n8n-io",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "stargazers_count": 134195,
+    "forks_count": 41989,
+    "created_at": "2019-06-22T09:24:21Z",
+    "updated_at": "2025-09-01T12:59:02Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "CONTRIBUTOR_LICENSE_AGREEMENT.md",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      },
+      {
+        "file_type": "claude",
+        "filename": "CLAUDE.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "github_id": 70107786,
+    "full_name": "vercel/next.js",
+    "name": "next.js",
+    "owner_login": "vercel",
+    "description": "The React Framework",
+    "language": "JavaScript",
+    "stargazers_count": 134128,
+    "forks_count": 29198,
+    "created_at": "2016-10-05T23:32:51Z",
+    "updated_at": "2025-09-01T12:51:18Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "readme.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "license.md",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "contributing.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "github_id": 574523116,
+    "full_name": "f/awesome-chatgpt-prompts",
+    "name": "awesome-chatgpt-prompts",
+    "owner_login": "f",
+    "description": "This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.",
+    "language": "JavaScript",
+    "stargazers_count": 133446,
+    "forks_count": 17724,
+    "created_at": "2022-12-05T13:54:13Z",
+    "updated_at": "2025-09-01T12:53:57Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "github_id": 23096959,
+    "full_name": "golang/go",
+    "name": "go",
+    "owner_login": "golang",
+    "description": "The Go programming language",
+    "language": "Go",
+    "stargazers_count": 129685,
+    "forks_count": 18361,
+    "created_at": "2014-08-19T04:33:40Z",
+    "updated_at": "2025-09-01T11:32:33Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "github_id": 62607227,
+    "full_name": "yangshun/tech-interview-handbook",
+    "name": "tech-interview-handbook",
+    "owner_login": "yangshun",
+    "description": "\ud83d\udcaf Curated coding interview preparation materials for busy software engineers",
+    "language": "TypeScript",
+    "stargazers_count": 129389,
+    "forks_count": 15734,
+    "created_at": "2016-07-05T05:00:48Z",
+    "updated_at": "2025-09-01T12:32:59Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "github_id": 241576270,
+    "full_name": "labuladong/fucking-algorithm",
+    "name": "fucking-algorithm",
+    "owner_login": "labuladong",
+    "description": "\u5237\u7b97\u6cd5\u5168\u9760\u5957\u8def\uff0c\u8ba4\u51c6 labuladong \u5c31\u591f\u4e86\uff01English version supported! Crack LeetCode, not only how, but also why. ",
+    "language": "Markdown",
+    "stargazers_count": 129167,
+    "forks_count": 23419,
+    "created_at": "2020-02-19T09:01:23Z",
+    "updated_at": "2025-09-01T12:47:55Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "github_id": 111583593,
+    "full_name": "Genymobile/scrcpy",
+    "name": "scrcpy",
+    "owner_login": "Genymobile",
+    "description": "Display and control your Android device",
+    "language": "C",
+    "stargazers_count": 127372,
+    "forks_count": 11933,
+    "created_at": "2017-11-21T18:00:27Z",
+    "updated_at": "2025-09-01T12:58:55Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "github_id": 58028038,
+    "full_name": "521xueweihan/HelloGitHub",
+    "name": "HelloGitHub",
+    "owner_login": "521xueweihan",
+    "description": ":octocat: \u5206\u4eab GitHub \u4e0a\u6709\u8da3\u3001\u5165\u95e8\u7ea7\u7684\u5f00\u6e90\u9879\u76ee\u3002Share interesting, entry-level open source projects on GitHub.",
+    "language": "Python",
+    "stargazers_count": 126897,
+    "forks_count": 10687,
+    "created_at": "2016-05-04T06:24:11Z",
+    "updated_at": "2025-09-01T12:41:34Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "github_id": 112507086,
+    "full_name": "Chalarangelo/30-seconds-of-code",
+    "name": "30-seconds-of-code",
+    "owner_login": "Chalarangelo",
+    "description": "Coding articles to level up your development skills",
+    "language": "JavaScript",
+    "stargazers_count": 125177,
+    "forks_count": 12311,
+    "created_at": "2017-11-29T17:35:03Z",
+    "updated_at": "2025-09-01T10:57:19Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "github_id": 307260205,
+    "full_name": "yt-dlp/yt-dlp",
+    "name": "yt-dlp",
+    "owner_login": "yt-dlp",
+    "description": "A feature-rich command-line audio/video downloader",
+    "language": "Python",
+    "stargazers_count": 124838,
+    "forks_count": 9957,
+    "created_at": "2020-10-26T04:22:55Z",
+    "updated_at": "2025-09-01T12:52:28Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": ".pre-commit-config.yaml",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "github_id": 29028775,
+    "full_name": "facebook/react-native",
+    "name": "react-native",
+    "owner_login": "facebook",
+    "description": "A framework for building native applications using React",
+    "language": "C++",
+    "stargazers_count": 123617,
+    "forks_count": 24824,
+    "created_at": "2015-01-09T18:10:16Z",
+    "updated_at": "2025-09-01T13:02:05Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "github_id": 184456251,
+    "full_name": "microsoft/PowerToys",
+    "name": "PowerToys",
+    "owner_login": "microsoft",
+    "description": "Windows system utilities to maximize productivity",
+    "language": "C#",
+    "stargazers_count": 122769,
+    "forks_count": 7320,
+    "created_at": "2019-05-01T17:44:02Z",
+    "updated_at": "2025-09-01T12:50:31Z",
+    "special_files": [
+      {
+        "file_type": "readme",
+        "filename": "README.md",
+        "is_active": true
+      },
+      {
+        "file_type": "license",
+        "filename": "LICENSE",
+        "is_active": true
+      },
+      {
+        "file_type": "contributing",
+        "filename": "CONTRIBUTING.md",
+        "is_active": true
+      },
+      {
+        "file_type": "code_of_conduct",
+        "filename": "CODE_OF_CONDUCT.md",
+        "is_active": true
+      }
+    ]
+  }
+]

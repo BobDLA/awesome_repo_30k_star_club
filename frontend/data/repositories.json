@@ -1,0 +1,88 @@
+{
+  "repositories": [
+    {
+      "id": 1,
+      "full_name": "Significant-Gravitas/AutoGPT",
+      "name": "AutoGPT",
+      "owner_login": "Significant-Gravitas",
+      "description": "An experimental open-source attempt to make GPT-4 fully autonomous",
+      "language": "Python",
+      "stargazers_count": 178190,
+      "forks_count": 45234,
+      "open_issues_count": 1234,
+      "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "special_files": {
+        "agents": {
+          "exists": true,
+          "filename": "AGENTS.md"
+        },
+        "readme": {
+          "exists": true,
+          "filename": "README.md"
+        },
+        "license": {
+          "exists": true,
+          "filename": "LICENSE"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "full_name": "huggingface/transformers",
+      "name": "transformers",
+      "owner_login": "huggingface",
+      "description": "Transformers: State-of-the-art Machine Learning for PyTorch, TensorFlow, and JAX.",
+      "language": "Python",
+      "stargazers_count": 149034,
+      "forks_count": 29876,
+      "open_issues_count": 567,
+      "html_url": "https://github.com/huggingface/transformers",
+      "special_files": {
+        "agents": {
+          "exists": true,
+          "filename": "AGENTS.md"
+        },
+        "readme": {
+          "exists": true,
+          "filename": "README.md"
+        },
+        "license": {
+          "exists": true,
+          "filename": "LICENSE"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "full_name": "microsoft/vscode",
+      "name": "vscode",
+      "owner_login": "microsoft",
+      "description": "Visual Studio Code",
+      "language": "TypeScript",
+      "stargazers_count": 178190,
+      "forks_count": 24567,
+      "open_issues_count": 8901,
+      "html_url": "https://github.com/microsoft/vscode",
+      "special_files": {
+        "readme": {
+          "exists": true,
+          "filename": "README.md"
+        },
+        "license": {
+          "exists": true,
+          "filename": "LICENSE"
+        },
+        "claude": {
+          "exists": true,
+          "filename": "CLAUDE.md"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "total_count": 864,
+    "claude_count": 37,
+    "agents_count": 12,
+    "last_updated": "2024-09-01T22:25:00Z"
+  }
+}

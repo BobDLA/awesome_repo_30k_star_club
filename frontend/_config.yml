@@ -1,0 +1,42 @@
+# GitHub Pages Configuration
+# This file helps GitHub serve the site correctly
+
+# Front matter defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .bundle
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+
+# Site settings
+title: GitHub Repository Analysis System
+description: 分析GitHub仓库中的AI/LLM开发模式和特殊文件
+url: "" # production URL
+baseurl: "" # subpath
+
+# Social
+github_username: your-username
+twitter_username: your-username
+
+# Analytics
+google_analytics: UA-XXXXXXXXX-X
