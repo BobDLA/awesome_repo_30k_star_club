@@ -8,7 +8,7 @@ class GitHubStarRankings {
         this.currentFilters = {
             language: '',
             minStars: 30000,
-            maxStars: 250000,
+            maxStars: 1000000,
             searchQuery: '',
             hasClaudeMd: false,
             hasAgentsMd: false,
@@ -348,8 +348,8 @@ class GitHubStarRankings {
         noResults.style.display = 'none';
         this.updateResultCount(this.filteredRepos.length);
 
-        const startIdx = 0;
-        const endIdx = startIdx + (this.currentPage + 1) * this.pageSize;
+        const startIdx = this.currentPage * this.pageSize;
+        const endIdx = startIdx + this.pageSize;
         const pageRepos = this.filteredRepos.slice(startIdx, endIdx);
 
         container.innerHTML = '';
@@ -538,7 +538,7 @@ function applyFilters() {
 function resetFilters() {
     document.getElementById('searchInput').value = '';
     document.getElementById('minStars').value = 30000;
-    document.getElementById('maxStars').value = 250000;
+    document.getElementById('maxStars').value = 1000000;
     document.getElementById('hasClaudeMd').checked = false;
     document.getElementById('hasAgentsMd').checked = false;
     document.getElementById('hasReadme').checked = false;
@@ -548,7 +548,7 @@ function resetFilters() {
         rankingsApp.currentFilters = {
             language: '',
             minStars: 30000,
-            maxStars: 250000,
+            maxStars: 1000000,
             searchQuery: '',
             hasClaudeMd: false,
             hasAgentsMd: false,
