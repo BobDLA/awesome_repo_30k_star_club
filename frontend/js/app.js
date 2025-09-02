@@ -122,8 +122,8 @@ class GitHubStarRankings {
         const minStars = document.getElementById('minStars').value;
         const maxStars = document.getElementById('maxStars').value;
         
-        document.getElementById('minStarsValue').textContent = minStars === '250000' ? '250K+' : this.formatStars(minStars);
-        document.getElementById('maxStarsValue').textContent = maxStars === '250000' ? '250K+' : this.formatStars(maxStars);
+        document.getElementById('minStarsValue').textContent = minStars === '1000000' ? '1M+' : this.formatStars(minStars);
+        document.getElementById('maxStarsValue').textContent = maxStars === '1000000' ? '1M+' : this.formatStars(maxStars);
         
         this.currentFilters.minStars = parseInt(minStars);
         this.currentFilters.maxStars = parseInt(maxStars);
